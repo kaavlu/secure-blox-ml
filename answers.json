@@ -1,0 +1,33 @@
+{
+  "filename": "No filename found",
+  "questions": [
+    {
+      "question_id": "Q3",
+      "question": "Have the board members been trained on compliance requirements?",
+      "answer_choices": [],
+      "answer": "",
+      "source": ""
+    },
+    {
+      "question_id": "Q5",
+      "question": "Does your company have a designated compliance officer?",
+      "answer_choices": [],
+      "answer": "",
+      "source": ""
+    },
+    {
+      "question_id": "Q7",
+      "question": "Do you have regular audits to ensure compliance?",
+      "answer_choices": [],
+      "answer": "",
+      "source": ""
+    },
+    {
+      "question_id": "Q9",
+      "question": "How does the company handle conflicts of interest?",
+      "answer_choices": [],
+      "answer": "",
+      "source": ""
+    }
+  ]
+}
